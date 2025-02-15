@@ -41,6 +41,7 @@
 
 
 <img 
+      margin-top="20px"
       align="left" 
       alt="GitHub Stats" 
       height="200" 
