@@ -21,15 +21,32 @@
 - **Python** (learning on the internet)
 
 ## 💻 Skills:
-- **HTML/CSS/JavaScript** 
+- **HTML & CSS**
+- **JavaScript** 
 - **C#** 
 - **SQL** (Data Base)
 
 ## 🌐 Languages:
 - **English**  (Intermediate)
+  
+##  📊 Statistics:
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Leticia-Eto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-I'm always looking for new challenges and opportunities to learn! 🚀
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia-Eto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
+</p>
 
 
 <!--
