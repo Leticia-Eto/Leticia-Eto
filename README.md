@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leticia Eto</h1>
-<h3 align="center"> I'm a 3rd-year high school student at Cotemig College, and I'm passionate about technology and programming.</h3>
+<h3 align="center"> I'm a 3rd-year high school student at Cotemig, and I'm passionate about technology and programming.</h3>
 
 - 🌱 I’m currently learning **kotlin, swift and dart**
 
