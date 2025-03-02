@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leticia Eto</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=Explorando+o+mundo+da+tecnologia+🤖;Construindo+ideias+com+código;Apaixonada+por+programação+👩‍💻;Criando+conteúdo+e+compartilhando+conhecimento;Seja+bem-vindo+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=Exploring+the+world+of+technology+🤖;Building+ideas+with+code;Passionate+about+programming+👩‍💻;Creating+content+and+sharing+knowledge;Welcome+to+my+GitHub!+🚀)](https://git.io/typing-svg)
+
 
 <h3 align="center"> I'm a 3rd-year high school student at Cotemig, and I'm passionate about technology and programming.</h3>
 
