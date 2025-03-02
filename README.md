@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leticia Eto</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=35&center=true&vCenter=true&width=1000&lines=Explorando+o+mundo+da+tecnologia+🤖;Construindo+ideias+com+código;Apaixonada+por+programação+👩‍💻;Criando+conteúdo+e+compartilhando+conhecimento;Seja+bem-vindo+ao+meu+GitHub!+🚀)](https://git.io/typing-svg)
+
 <h3 align="center"> I'm a 3rd-year high school student at Cotemig, and I'm passionate about technology and programming.</h3>
 
 - 🌱 I’m currently learning **kotlin, swift and dart**
@@ -30,6 +33,8 @@
 - **English**  (Intermediate)
   
 ##  📊 Statistics:
+
+[![Leticia Eto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leticia-Eto&bg_color=0D0D0D&color=B22222&line=FFD700&point=B22222&area=true&area_color=FFD700&hide_border=true)](https://github.com/Leticia-Eto/)
 
 <p>
   <img 
