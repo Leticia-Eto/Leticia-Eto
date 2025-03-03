@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **kotlin, swift and dart**
 
-- 📫 How to reach me **leticiaetofilocandido@gmail.com**
+- 📫 How to reach me **leticiaetofilocandido@gmail.com** • **(31) 98495-8809**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
