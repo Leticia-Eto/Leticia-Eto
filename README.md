@@ -46,7 +46,7 @@
     src="https://github-readme-stats.vercel.app/api?username=Leticia-Eto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 </p>
-<br>
+
 <p>
   <img 
     align="left" 
