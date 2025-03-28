@@ -45,7 +45,9 @@
     style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=Leticia-Eto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
+</p>
 
+<p>
   <img 
     align="left" 
     alt="Top Languages" 
